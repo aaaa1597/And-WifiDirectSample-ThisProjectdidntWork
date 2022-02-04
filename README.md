@@ -5,7 +5,7 @@ WifiDirectのサンプルソース ← 作ろうとしたけど、やめた。
 Android Oreo(8)より大きいと動かない。
 
 
-Xperia5, XperiaXZs, L201(LNMBBSのタブレット)で、デフォルトのWifi-Direct確認したけど、どれもちゃんと動いてなさそう。</br>
+Xperia5, XperiaXZs, L201(LNMBBSのタブレット)で、デフォルトのWifi-Directの動き確認したけど、どれもちゃんと動いてなさそう。</br>
 　Xperia5...XperiaXZsはリストにでるけど、L201は出ず。XperiaXZsに接続できてるかは分かりにくい。</br>
 　XperiaXZs...Xperia5はリストにでるけど、L201は出ず。XperiaXZsに接続できてるかは分かりにくい。</br>
 　L201...XperiaXZsはリストにでるけど、Xperia5は出ず。XperiaXZsに接続できてるかは分かりにくい。</br>
