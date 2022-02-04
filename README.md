@@ -11,5 +11,5 @@ Xperia5, XperiaXZs, L201(LNMBBSのタブレット)で、デフォルトのWifi-D
 　L201...XperiaXZsはリストにでるけど、Xperia5は出ず。XperiaXZsは接続できる端末とできない端末がある、分かりにくい。</br>
 
 推論</br>
-AndroidのWifiDirect機能は、Drop(Android Samplesからなくなってる)しようとしているんでないかと思う。</br>
+AndroidのWifiDirect機能は、Drop(Android Samplesからもなくなっと－し)しようとしているんでないかと思う。</br>
 
